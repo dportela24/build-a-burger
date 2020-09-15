@@ -1,0 +1,23 @@
+.Ingredient {
+    width: 100%;
+}
+
+.Beef,
+.Salmon {
+  width: 100%;
+}
+
+.Bacon {
+  margin-bottom: -1.2em;
+  z-index: 3;
+}
+
+.Cheese {
+  margin-bottom: -1.3em;
+  z-index: 2;
+}
+
+.Lettuce {
+  margin-bottom: -1.4em;
+  z-index: 1;
+}

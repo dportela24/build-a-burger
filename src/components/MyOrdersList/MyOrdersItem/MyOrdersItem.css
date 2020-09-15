@@ -1,0 +1,15 @@
+.MyOrdersItem {
+    width: 100%;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 3px #aaa;
+    padding: 10px 20px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MyOrdersItem > *:last-child {
+    margin-left: 20px;
+}

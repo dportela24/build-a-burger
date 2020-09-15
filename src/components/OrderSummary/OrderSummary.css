@@ -1,0 +1,19 @@
+.OrderSummary {
+    display:flex;
+    flex-flow: column;
+}
+
+.Title {
+    font-size: 2em;
+}
+
+.SubTitle{
+    margin-top: 1em;
+}
+
+.SummaryList {
+    text-align: unset;
+    margin-top: 1em;
+    padding: 0;
+    list-style-type: none;
+}

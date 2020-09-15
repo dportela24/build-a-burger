@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'ScorchedEarth';
+    src: url('../../../../assets/ScorchedEarth.otf'); /* IE9 Compat Modes */
+}
+
+.LogoText {
+    font-family: 'ScorchedEarth';
+    color: #f58a3d;
+    -webkit-filter: drop-shadow(0.1em 0.1em 0.05em rgba(0,0,0,1));
+}
+
+.SubTitle {
+    font-size: 1em;
+    margin: 0;
+}
+
+.Title {
+    margin: 0 auto;
+    font-size: 2em;
+}

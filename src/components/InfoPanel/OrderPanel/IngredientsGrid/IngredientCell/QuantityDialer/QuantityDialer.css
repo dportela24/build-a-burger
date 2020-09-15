@@ -1,0 +1,33 @@
+.Dialer {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+
+.AddBtn,
+.RemoveBtn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.AddBtn:focus,
+.RemoveBtn:focus {
+    outline: none;
+}
+
+.AddBtn:active,
+.RemoveBtn:active {
+    transform: translateY(2px);
+}
+
+.Quantity {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.Icon {
+    width: 15px;
+    height: 15px;
+}

@@ -1,0 +1,11 @@
+.CustomerForm {
+    text-align: center;
+}
+
+.CustomerForm form {
+    margin-top: 1em;
+}
+
+.CustomerForm button {
+    margin-top: 0.75em;
+}

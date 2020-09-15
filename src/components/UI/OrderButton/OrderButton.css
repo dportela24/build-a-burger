@@ -1,0 +1,23 @@
+.OrderBtn {
+    color: #000;
+    background-image: linear-gradient(to right bottom, #f8ab5b, #f49857);
+    font-size: 1em;
+    font-weight: bold;
+    border: 0.2em solid #000;
+    border-radius: 30px;
+    padding: 0.5em 1.5em;
+    cursor: pointer;
+}
+
+.OrderBtn:focus {
+    outline: none;
+}
+
+.OrderBtn:hover {
+    transform: translateY(-0.15em);
+}
+
+.OrderBtn:active {
+    color: #000;
+    background-image: none;
+}

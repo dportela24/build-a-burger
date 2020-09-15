@@ -1,0 +1,25 @@
+.Page { 
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+}
+
+.Content {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    color: #ddd;
+    text-shadow: 2x 2px 5px #000;
+}
+
+.Content svg {
+    fill: #ddd;
+}
+
+@media (max-width: 1050px) {
+    .Content {
+        flex-direction: column;
+        align-items: center;
+    }
+}

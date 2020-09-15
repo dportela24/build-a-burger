@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Oswald;
+  background-image: url('./assets/background20.png');
+  background-size: cover;
+  background-repeat: repeat;
+}

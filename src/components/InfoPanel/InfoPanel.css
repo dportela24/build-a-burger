@@ -1,0 +1,8 @@
+.Info {
+    -webkit-filter: drop-shadow(5px 5px 3px rgba(0,0,0,1));
+}
+
+.NumberIngredients {
+    font-size: 1.5em;
+}
+

@@ -1,0 +1,12 @@
+@media (max-width: 1050px) {
+    .OrderPanel {
+        margin-right: 0;
+    }
+}
+
+.ButtonsPanel {
+    margin-top: 1em;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-evenly;
+}

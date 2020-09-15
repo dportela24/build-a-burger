@@ -1,0 +1,19 @@
+.InputElement{
+    display: flex;
+    flex-flow: column;
+    font-size: 1.2em;
+    margin-bottom: 0.4em;
+    border-radius: 0.75em;
+    padding-left: 0.5em;
+    border: 2px solid #000;
+    box-sizing: border-box;
+}
+
+.InputElement:focus {
+    outline: none;
+    border: 2px solid #f49857;
+}
+
+.Invalid {
+    border: 2px solid #f00;
+}

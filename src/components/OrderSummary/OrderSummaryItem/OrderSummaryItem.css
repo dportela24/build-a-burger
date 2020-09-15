@@ -1,0 +1,15 @@
+.SummaryItem:last-child {
+    border-top: 3px double #000;
+};
+
+.ItemLeftText {
+    float: left;
+}
+
+.ItemLeftText span {
+    text-transform: capitalize;
+}
+
+.ItemRightText {
+    float: right;
+}

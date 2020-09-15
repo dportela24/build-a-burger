@@ -1,0 +1,13 @@
+.Toolbar {
+    height: 6vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    border-bottom: 3px solid #f58a3d;
+}
+
+.Logo {
+    font-size: 12px;
+}

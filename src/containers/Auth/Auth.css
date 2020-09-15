@@ -1,0 +1,28 @@
+.Auth {
+    padding-top: 1.75em;
+    padding-bottom: 1.75em;
+}
+
+.Auth > :first-child {
+    -webkit-filter: drop-shadow(5px 5px 3px rgba(0,0,0,1));
+}
+
+.Auth input {
+    margin-top: 1em;
+    width: 100%;
+}
+
+.Auth button {
+    text-align: center;
+    margin-top: 2.5em;
+    width: 100%;
+}
+
+.authModeChanger {
+    text-align: center;
+}
+
+.authModeChanger span {
+    cursor: pointer;
+    text-decoration: underline;
+}

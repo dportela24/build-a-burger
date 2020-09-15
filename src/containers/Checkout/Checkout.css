@@ -1,0 +1,18 @@
+.Checkout {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    color: #000;
+    font-size: 20px;
+}
+
+.Overview {
+    margin-top: 2em;
+    display: flex;
+    align-items: center;
+}
+
+.Overview > *:last-child {
+    margin-left: 6em;
+}
