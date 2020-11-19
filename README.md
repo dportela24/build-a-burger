@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/mPQYYB9.png" width=66%>
 </p>
 
-## About the project
+## Project Summary
 
 Built-a-burger implements the front-end of a fictionary burger delivery food service. With it, the client choose up to 10 ingredients to "build" its burger and have it delivered to its door.
 
