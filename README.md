@@ -1,7 +1,7 @@
 # Build-a-Burger
 
 <p align="center">
-  <img src="https://i.imgur.com/OL1JSAW.png" width=75%>
+  <img src="https://i.imgur.com/mPQYYB9.png" width=66%>
 </p>
 
 ## About the project
