@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-Built-a-burger implements the front-end of a fictionary burger delivery food service. With it, the client choose up to 10 ingredients to "build" its burger and have it delivered to its door.
+Built-a-burger implements the front-end of a fictitious burger delivery food service. With it, the client choose up to 10 ingredients to "build" its burger and have it delivered to its door.
 
 The web application is hosted [here](https://build-a-burger24.herokuapp.com/), using Heroku cloud plataform.
 
